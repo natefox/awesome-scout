@@ -24,6 +24,7 @@ Go to issues above and add an issue or if you're technical, create a PR.
 | Will the Terra have a spare tire? | [33" under bed, optional 35" in bed][tires-spare] | | |
 | Will the Traveler have a full size spare? | [Yes][tires-spare] | | |
 | How big is the battery? | [Not decided yet][batt-size] | | Harvester: ~75kWh<br>BEV: ~175kWh<br>(~2mi/kWh guestimate) |
+| Will air suspension be standard? | [No][air-suspension] | | |
 
 [battery-harverster]: https://scoutmotors.community.forum/threads/ideas-for-scout-engineers.967/page-2#post-9927
 [bench-both]: https://support.scoutmotors.com/en/articles/10055441-will-scout-vehicles-offer-a-front-bench-seat
@@ -36,3 +37,4 @@ Go to issues above and add an issue or if you're technical, create a PR.
 [roof-shade]: https://support.scoutmotors.com/en/articles/10055422-what-kind-of-roof-options-will-scout-vehicles-offer
 [tires-spare]: https://support.scoutmotors.com/en/articles/10054330-will-scout-vehicles-offer-a-spare-tire
 [batt-size]: https://support.scoutmotors.com/en/articles/10035079-what-total-usable-kwh-capacity-will-scout-vehicles-offer
+[air-suspension]: https://scoutmotors.community.forum/threads/what-is-one-feature-you-hope-scout-will-include-that-has-not-yet-been-shown.951/page-25#post-22692
